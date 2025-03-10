@@ -1,0 +1,6 @@
+Flask
+torch
+transformers
+requests
+SpeechRecognition
+gunicorn

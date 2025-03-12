@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # ✅ Load Model & Tokenizer
 MODEL_PATH = "conversational_medical_model"
-MODEL_RELEASE_URL = "https://github.com/Bmagaji76/kanyahealthcareAI/releases/download/v3.0/model1.safetensors"
+MODEL_RELEASE_URL = "https://github.com/Bmagaji76/kanyahealthcareAI/releases/download/v3.0/model.1.safetensors"
 
 def download_model():
     print("Downloading model...")
